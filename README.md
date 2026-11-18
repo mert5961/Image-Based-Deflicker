@@ -168,3 +168,7 @@ ui/index.html     the app (WebGL2 shader mirrors deflicker.finalize / render / d
 presets/          saved looks (JSON), usable with --preset
 docs/             README media
 ```
+
+## License
+
+Copyright 2026 Mert Barut. Licensed under the [Apache License 2.0](LICENSE). Ports and derivative works are welcome; please keep the [NOTICE](NOTICE) file and link back to this repository.
